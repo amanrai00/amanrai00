@@ -3,7 +3,7 @@
 <h2>🎨 HTML, CSS & JavaScript Projects:</h2>
 
 - <b>**Mini-Apps / Utilities**</b>
-  - [🎲 Dice Roll Simulator | サイコロシミュレーター](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [🎲 Dice Roll Simulator | サイコロシミュレーター](https://github.com/joshmadakor1/Algorithms-Prdsdsdactice)
 
 <h2> 🤳 Connect with me:</h2>
 
