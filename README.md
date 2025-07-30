@@ -13,7 +13,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/methodical.aman?igsh=ZDJ4cDlsNzh3Z2Fp&utm_source=qr
-[linkedin]: www.linkedin.com/in/aman-rai-371b6432a
+[linkedin]: www.linkedin.com/in/amanrai00
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
