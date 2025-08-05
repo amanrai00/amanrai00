@@ -3,7 +3,7 @@
 <h2>🎨 HTML, CSS & JavaScript Projects:</h2>
 
 - <b>**Mini-Apps / Utilities**</b>
-  - [Weather App  | 天気アプリ](https://github.com/joshmadakor1/Algorithms-Prdsdsdactice)
+  - [Weather App  | 天気アプリ](https://github.com/amanrai00/WeatherApp)
 
 <h2> 🤳 Connect with me:</h2>
 
