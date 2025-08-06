@@ -4,7 +4,7 @@
 
 - <b>**Mini-Apps / Utilities**</b>
   - [Weather App  | 天気アプリ](https://github.com/amanrai00/WeatherApp)
-  - [To-Do List App  | To-Doリストアプリ](https://github.com/amanrai00/WeatherApp)
+  - [To-Do List App  | To-Doリストアプリ](https://github.com/amanrai00/To-Do-List-App)
 
 <h2> 🤳 Connect with me:</h2>
 
