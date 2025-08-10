@@ -3,7 +3,7 @@
 <h2>🎨 HTML, CSS & JavaScript Projects:</h2>
 
 - <b>**Mini-Apps / Utilities**</b>
-  - [Quiz App  | クイズアプリ](https://github.com/amanrai00/WeatherApps)
+  - [Quiz App  | クイズアプリ](https://github.com/amanrai00/Quiz-App.git)
   - [Weather App  | 天気アプリ](https://github.com/amanrai00/WeatherApp)
   - [To-Do List App  | To-Doリストアプリ](https://github.com/amanrai00/To-Do-List-App)
 
