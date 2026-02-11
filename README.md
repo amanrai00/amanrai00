@@ -1,3 +1,5 @@
+> 🇯🇵 [日本語版はこちら](./README.ja.md)
+
 ### Hi, I'm Aman Rai 👋
 
 Frontend developer based in Tokyo | Vue.js・JavaScript・Tailwind CSS
