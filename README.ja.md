@@ -23,4 +23,4 @@ Vue.js（Composition API）｜JavaScript｜Tailwind CSS｜GSAP・ScrollTrigger�
 - 💡 介護現場での経験 — ユーザー目線で考える力と丁寧なものづくりの姿勢
 
 #### 📫 お問い合わせ
-[ポートフォリオ](https://obliviousaman.netlify.app) ・ [LinkedIn](https://www.linkedin.com/amanrai00) ・ [GitHub](https://github.com/amanrai00)
+[ポートフォリオ](https://obliviousaman.netlify.app) ・ [LinkedIn](https://www.linkedin.com/in/amanrai00) ・ [GitHub](https://github.com/amanrai00)
