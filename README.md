@@ -23,4 +23,4 @@ Vue.js (Composition API) | JavaScript | Tailwind CSS | GSAP & ScrollTrigger | Vu
 - 🤝 3+ years in Japan — deep understanding of Japanese work culture and user expectations
 
 #### 📫 Let's Connect
-[Portfolio](https://obliviousaman.netlify.app) ・ [LinkedIn](https://www.linkedin.com/amanrai00)
+[Portfolio](https://obliviousaman.netlify.app) ・ [LinkedIn](www.linkedin.com/in/amanrai00)
